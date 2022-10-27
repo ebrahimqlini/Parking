@@ -1,3 +1,2 @@
 # Parking
- Graduation Project "\n"
-follow notes 
+ Graduation Project
