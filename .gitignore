@@ -1,0 +1,28 @@
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local configuration and Firebase service-account keys
+.env
+.env.*
+!.env.example
+serviceAccountKey.json
+service-account*.json
+*-firebase-adminsdk-*.json
+
+# Private face data and generated biometric encodings
+Images/
+EncodeFile.p
+students.json
+output/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

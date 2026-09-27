@@ -1,0 +1,10 @@
+{
+  "demo-001": {
+    "name": "Demo Student One",
+    "email": "student1@example.com"
+  },
+  "demo-002": {
+    "name": "Demo Student Two",
+    "email": "student2@example.com"
+  }
+}
